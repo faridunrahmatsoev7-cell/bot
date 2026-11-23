@@ -1,7 +1,7 @@
 import telebot, time, os, threading
 from flask import Flask
 
-TOKEN = "8830467337:AAHXrHJbAnpmSPLKncItCnBnHF5caxtP0Ok"
+TOKEN = "8830467337:AAFLegVrjduz937H3knGFK2JhEla9F6GRkQ"
 bot = telebot.TeleBot(TOKEN)
 app = Flask(__name__)
 
